@@ -1,4 +1,4 @@
-# Sahayaka
+# Sahāyaka
 ***AI-Powered Agricultural Advisory System***
 
 ## Problem Statement
